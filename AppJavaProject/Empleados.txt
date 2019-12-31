@@ -1,0 +1,6 @@
+E001,fef,afasf,Jefe de marca,Publicidad,34324.0,31578.08,2745.92
+E002,vasv,asfdas,Recepcionista,Publicidad,32525.0,29923.0,2602.0
+E004,SSFSDF,DSFSD,Asistente personal,Contabilidad,21412.0,19699.04,1712.96
+E005,asdasd,werwe,Jefe de marca,Contabilidad,786768.0,723826.56,62941.44
+E006,ccasdc,asdasd,Recepcionista,Publicidad,32432.0,29837.440000000002,2594.56
+E007,asdasd,fdgfd,Asistente personal,Contabilidad,6546.0,6022.320000000001,523.6800000000001
